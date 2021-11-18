@@ -27,7 +27,7 @@ var configs = (function () {
         touch_help: "Change file timestamps. If the file doesn't exist, it's created an empty one.",
         sudo_help: "Execute a command as the superuser.",
         welcome: "Establishing Psylink. . .\n\nVerifying Arcane Energies. . .\n\nConnection to Host has been successful. . .\n\nNavigating to Stored Information. . .\n\nStatus: Working\nArcanum Energy: 74% Output. . .OK\nConnection to Host: SECURE\nInternal Info: SAFE\n\nLoading OPERATION_ENCRYPTA_HEPICUS. . .OK\n\nWelcome to the Theater of the Mind, Agent. Type help for a list of commands.",
-        internet_explorer_warning: "NOTE: I see you're using internet explorer, this website won't work properly.",
+        internet_explorer_warning: "NOTE: I see you're utilzing Ancient Magic, this website won't work properly.",
         welcome_file_name: "welcome_message.txt",
         invalid_command_message: "<value>: command not found.",
         reboot_message: "Preparing to reboot...\n\n3...\n\n2...\n\n1...\n\nRebooting...\n\n",
